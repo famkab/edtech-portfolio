@@ -40,7 +40,7 @@ This repository showcases my projects in EdTech, Data Science, and Natural Langu
 Feel free to contact me for any questions, discussions, or opportunities:
 
 - Email:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/famkab)
-- GitHub: [Your GitHub Profile](https://github.com/famkab)
+- LinkedIn: [famkab](https://linkedin.com/in/famkab)
+- GitHub: [famkab](https://github.com/famkab)
 
 ## License
