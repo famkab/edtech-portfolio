@@ -2,21 +2,16 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  color: #333;
 }
 
-header, #about, #projects, #contact {
+header, nav, section, footer {
+  margin: 20px;
   padding: 20px;
-}
-
-header {
-  background-color: #333;
-  color: white;
 }
 
 nav ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
 nav li {
@@ -24,8 +19,18 @@ nav li {
   margin-right: 10px;
 }
 
-.project {
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin-bottom: 10px;
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+section {
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+footer {
+  text-align: center;
 }
