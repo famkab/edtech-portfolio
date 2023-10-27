@@ -19,12 +19,12 @@ This repository showcases my projects in EdTech, Data Science, and Natural Langu
 - Description:
 - Tools: Python, NLTK, Scikit-learn
 
-### [Project 2: Course Recommendation System](./Project2)
+### [Project 2: ](./Project2)
 
 - Description:
 - Tools: Python, Pandas, Scikit-learn
 
-### [Project 3: Sentiment Analysis on Course Reviews](./Project3)
+### [Project 3: ](./Project3)
 
 - Description: .
 - Tools: Python, NLTK, TensorFlow
@@ -39,7 +39,7 @@ This repository showcases my projects in EdTech, Data Science, and Natural Langu
 
 Feel free to contact me for any questions, discussions, or opportunities:
 
-- EMail:
+- Email:
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/famkab)
 - GitHub: [Your GitHub Profile](https://github.com/famkab)
 
